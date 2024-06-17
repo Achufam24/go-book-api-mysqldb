@@ -1,0 +1,87 @@
+repo_name: Achufam24/go-book-api-mysqldb
+report_id: cc582dbb6f1692db055b6787bf2693e9
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-17T09:03:45+00:00'
+requested_by: CeoFred
+provider: github
+branch: main
+detected_tools_count: 6
+tools:
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/Achufam24/go-book-api-mysqldb
+  detection_source: Repo Metadata
+- name: GORM
+  description: The fantastic ORM library for Golang
+  website_url: https://gorm.io/
+  version: 1.9.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/5194/default_c656a82cbf499a944563022a13ebbd62c9f3aa4b.png
+  detection_source_url: https://github.com/Achufam24/go-book-api-mysqldb/blob/main/go.sum
+  detection_source: go.mod
+  last_updated_by: CeoFred
+  last_updated_on: 2023-01-08 20:10:04.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/Achufam24/go-book-api-mysqldb/blob/main/go.mod
+  detection_source: go.mod
+  last_updated_by: CeoFred
+  last_updated_on: 2023-01-08 20:10:04.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Achufam24/go-book-api-mysqldb
+  detection_source: Repo Metadata
+- name: inflection
+  description: Pluralizes and singularizes English nouns
+  package_url: https://pkg.go.dev/github.com/jinzhu/inflection
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Achufam24/go-book-api-mysqldb/blob/main/go.sum
+  detection_source: go.mod
+  last_updated_by: CeoFred
+  last_updated_on: 2023-01-08 20:10:04.000000000 Z
+- name: mux
+  description: "A powerful HTTP router and URL matcher for building Go web servers
+    with \U0001F98D"
+  package_url: https://pkg.go.dev/github.com/gorilla/mux
+  version: 1.8.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Achufam24/go-book-api-mysqldb/blob/main/go.sum
+  detection_source: go.mod
+  last_updated_by: CeoFred
+  last_updated_on: 2023-01-08 20:10:04.000000000 Z
